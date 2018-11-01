@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9357" started-at="2018-10-30T20:57:05Z" finished-at="2018-10-30T20:57:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9357" started-at="2018-10-30T20:57:05Z" finished-at="2018-10-30T20:57:14Z">
+      <class name="testpageobjects.TestSortList">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testpageobjects.TestSortList@3712b94]" name="setUp" is-config="true" duration-ms="8753" started-at="2018-10-30T18:56:56Z" finished-at="2018-10-30T18:57:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test1OrderItem()[pri:0, instance:testpageobjects.TestSortList@3712b94]" name="Test1OrderItem" duration-ms="9220" started-at="2018-10-30T18:57:05Z" finished-at="2018-10-30T18:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1OrderItem -->
+        <test-method status="PASS" signature="Test2VerifyListOrdered()[pri:0, instance:testpageobjects.TestSortList@3712b94]" name="Test2VerifyListOrdered" duration-ms="103" started-at="2018-10-30T18:57:14Z" finished-at="2018-10-30T18:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2VerifyListOrdered -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:testpageobjects.TestSortList@3712b94]" name="finish" is-config="true" duration-ms="0" started-at="2018-10-30T18:57:14Z" finished-at="2018-10-30T18:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- testpageobjects.TestSortList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,7 @@
+<suite name="Mindera- QA Sortable Challenge">
+    <test name="Sort and Verify a sortable List">
+        <classes>
+            <class name="testpageobjects.TestSortList" />
+        </classes>
+    </test>
+</suite>
